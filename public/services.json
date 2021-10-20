@@ -1,0 +1,13 @@
+[
+    {"id":1,"name":"Lab test","describe":"A medical procedure that involves testing a sample of blood, urine, or other substance from the body. Laboratory tests can help determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the disease over time.","img":"https://i.ibb.co/gDMp6Br/lab-test.jpg"},
+    
+    {"id":2,"name":"Dental Care","describe":"Regular teeth cleaning by a dentist removes plaque that may develop, even with careful brushing and flossing. This is very important for getting at areas that are hard to reach on your own. Professional cleaning includes scaling and polishing.","img":"https://i.ibb.co/JmRG0Cc/dental-care.jpg"},
+    
+    {"id":3,"name":"Cardiac Monitoring","describe":"Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.","img":"https://i.ibb.co/SfRgQd9/monitoring.jpg"},
+    
+    {"id":4,"name":"Cancer","describe":"One of the most common treatment options for many cancer types is chemotherapy, which uses drugs to kill fast-growing cancer cells.t may help treat cancer, prevent it from returning, stop it from spreading, and/or delay its growth.","img":"https://i.ibb.co/Qmhwfgw/cancer.jpg"},
+    
+    {"id":5,"name":"Pregnancy Tests","describe":"Pregnancy tests check your pee or blood for a hormone called human chorionic gonadotropin (hCG). Your body makes this hormone after a fertilized egg attaches to the wall of your uterus.This usually happens about 6 days after fertilization. Levels of hCG rise quickly, doubling every 2 to 3 days.","img":"https://i.ibb.co/WPSh6Z4/pregnent.jpg"},
+    
+    {"id":6,"name":"End of life","describe":"Even if you feel perfectly healthy, you should see your provider at least once a year for a checkup. In one survey, 40% of men said that, if they were sick, they would delay seeking medical care for a few days. Seventeen percent said they would wait “at least a week.”","img":"https://i.ibb.co/jTDHz6C/end-of-the-life.jpg"}
+    ]

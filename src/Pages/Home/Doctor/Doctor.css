@@ -1,0 +1,11 @@
+.doctor{
+    display: flex;
+}
+.details{
+    align-items: center;
+    justify-content: center;
+}
+.doctor img{
+    width: 400px;
+    height: 400px;
+}

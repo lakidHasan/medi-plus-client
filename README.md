@@ -1,6 +1,6 @@
 Its Health Related website:
 
-live link : https://medi-plus-healthcare.web.app/home
+live link : https://medi-plus-healthcare.firebaseapp.com/
 
 1. Here is our six service
 2. best four doctor available all time

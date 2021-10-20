@@ -1,8 +1,9 @@
 
-import { useHistory, useLocation } from 'react-router-dom';
+import { Link, useHistory, useLocation } from 'react-router-dom';
 import useAuth from '../../../hooks/useAuth';
 
 const Login = () => {
+
     const {signInUsingGoogle, user} = useAuth();
 
     const location = useLocation();
@@ -21,11 +22,14 @@ const Login = () => {
         <div>
             <h2>Please login</h2>
             <h2> Show Email: {user.email}</h2>
-            <input className="mt-3" placeholder="type your email" type="text" name="" id="" />
+            <form>
+            <input className="mt-3" placeholder="Type your email" type="text" name="" id="" />
             <br />
-            <input className="mt-3" placeholder="type your password" type="text" name="" id="" />
+            <input className="mt-3" placeholder="Type your password" type="text" name="" id="" />
             <br />
             <button className="btn btn-primary mt-4">Submit</button>
+            </form>
+            <p>If you new this site <Link to="/register">Create Account</Link></p>
             <br />
             <button onClick= {handleGoogleLogin} className="btn btn-primary mb-3 mt-4">Google Sign In</button>
         </div>

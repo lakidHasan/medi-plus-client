@@ -10,6 +10,7 @@ import AuthProvider from './contexts/AuthProvider';
 import Services from './Pages/Home/Services/Services';
 import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 import Footer from './Pages/Shared/Footer/Footer';
+import About from './Pages/Home/About/About';
 
 
 function App() {
@@ -34,6 +35,9 @@ function App() {
        <PrivateRoute path="/booking/:serviceId">
         <Booking></Booking>
        </PrivateRoute>
+       <Route path='/about'>
+         <About></About>
+       </Route>
        <Route path="*">
          <NotFound></NotFound>
        </Route>

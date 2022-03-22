@@ -1,4 +1,4 @@
-Its Health Related website:
+Its Hospital Related website:
 
 live link : https://medi-plus-healthcare.firebaseapp.com/
 

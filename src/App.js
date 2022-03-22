@@ -39,9 +39,9 @@ function App() {
        <PrivateRoute path="/booking/:serviceId">
         <Booking></Booking>
        </PrivateRoute>
-       {/* <Route path='/about'>
+       <Route path='/about'>
          <About></About>
-       </Route> */}
+       </Route>
        <Route path="*">
          <NotFound></NotFound>
        </Route>
